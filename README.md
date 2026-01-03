@@ -83,7 +83,10 @@ Later simulations introduce environmental factors:
 -   **Variable Friction Soil:** Simulating mud patches to test robustness against slip.
 -   **Mixed Terrain with Power Modeling:** Evaluating energy consumption and path tracking across different terrains (tarmac, rough, mud), with realistic slip effects.
 
+-   
+
 ## 5. Results & Analysis
+<img width="1790" height="1189" alt="results" src="https://github.com/user-attachments/assets/18c394d2-c7ab-40f1-86f5-377dabfc0aaf" />
 
 Each iteration of the notebook provides plots comparing the trajectories of different controllers and quantitative metrics like:
 
